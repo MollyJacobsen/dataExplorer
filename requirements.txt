@@ -1,0 +1,10 @@
+scipy
+numpy
+matplotlib
+ipython
+jupyter
+pandas
+sympy
+nose
+sklearn
+seaborn
